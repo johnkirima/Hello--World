@@ -2,4 +2,4 @@
 My first repository
 ## First Heading
 ### Second Heading
-* italicized text*
+*italicized text*
