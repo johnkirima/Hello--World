@@ -2,7 +2,7 @@
 
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
-- [HOW TO RUN PROGRAM](#How-to-run-program)
+- [WHERE TO OPEN THE FILE](#Where-to-open-the-file)
 - [FILES USED](#files-used)
 
 
@@ -20,10 +20,10 @@
   - [1] *Open up File Explorer*
   - [2] *Go to downloads*
   - [3] *Go to search bar*
-  - [4] *While in search bar type **Internships**
+  - [4] *While in search bar type **Internship**
  
  ##FILE USED 
-   > Internship accepted 
+   > Internship accepted file
  
   
   
