@@ -7,10 +7,25 @@
 
 
 
-  ## Project Title
+  #PROJECT TITLE
 
   Hello World
 
   #DESCRIPTION
 
   *This is my first time in Github*
+
+  # WHERE TO OPEN THE FILE
+
+  - [1] *Open up File Explorer*
+  - [2] *Go to downloads*
+  - [3] *Go to search bar*
+  - [4] *While in search bar type **Internships**
+ 
+ ##FILE USED 
+   > Internship accepted 
+ 
+  
+  
+
+
